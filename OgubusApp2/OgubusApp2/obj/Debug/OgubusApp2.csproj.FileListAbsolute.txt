@@ -1,0 +1,13 @@
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.csproj.AssemblyReference.cache
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.Form1.resources
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.Properties.Resources.resources
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.csproj.GenerateResource.cache
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.csproj.CoreCompileInputs.cache
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\bin\Debug\OgubusApp2.exe.config
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\bin\Debug\OgubusApp2.exe
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\bin\Debug\OgubusApp2.pdb
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.exe
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.pdb
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.FormOgrenciDersleri.resources
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.FormOgretmenIslemleri.resources
+C:\Users\Azt\source\repos\OgubusApp2\OgubusApp2\obj\Debug\OgubusApp2.FormMemurIslemleri.resources
